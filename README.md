@@ -1,4 +1,7 @@
-# api documentation for  [koa-mount (v3.0.0)](https://github.com/koajs/mount#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-mount.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-mount) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-mount.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-mount)
+# npmdoc-koa-mount
+
+#### basic api documentation for  [koa-mount (v3.0.0)](https://github.com/koajs/mount#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-koa-mount.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-koa-mount) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-koa-mount.svg)](https://travis-ci.org/npmdoc/node-npmdoc-koa-mount)
+
 #### Mounting middleware for koa
 
 [![NPM](https://nodei.co/npm/koa-mount.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/koa-mount)
@@ -106,7 +109,8 @@
             },
             "pkgid": "koa-mount@3.0.0"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
